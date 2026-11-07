@@ -1,5 +1,3 @@
-# Terraform-ansible
-
 # Terraform + Ansible AWS Automation Project
 
 A resume and GitHub portfolio project for a DevOps Engineer, built with Terraform, Ansible, AWS, and GitHub.
