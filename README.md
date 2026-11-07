@@ -1,5 +1,8 @@
 # Terraform + Ansible AWS Automation Project
 
+<img width="1077" height="671" alt="image" src="https://github.com/user-attachments/assets/6bb4dbbf-a6c6-4216-94a9-ecc8ec774093" />
+
+
 A resume and GitHub portfolio project for a DevOps Engineer, built with Terraform, Ansible, AWS, and GitHub.
 
 ## Project Goal
