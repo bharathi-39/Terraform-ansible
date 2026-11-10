@@ -503,16 +503,3 @@ Created by Bharathi Ganesh
 - Nginx
 - Automation
 
----
-
-# Resume Description
-
-### AWS Infrastructure Automation using Terraform & Ansible
-
-- Automated AWS infrastructure provisioning using Terraform following Infrastructure as Code (IaC) principles.
-- Created VPC, Public Subnet, Internet Gateway, Route Tables, Security Groups, AWS Key Pair, and EC2 Instances.
-- Developed reusable Terraform configurations using variables and outputs.
-- Configured Linux servers using Ansible playbooks.
-- Automated Nginx installation and web application deployment.
-- Managed source code through Git and GitHub.
-- Implemented cloud security and automation best practices.
