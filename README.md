@@ -295,20 +295,3 @@ Include:
 
 ---
 
-## Step 15: Resume Project Description
-
-**AWS Infrastructure Automation using Terraform & Ansible**
-
-- Automated AWS infrastructure provisioning using Terraform following Infrastructure as Code (IaC) principles.
-- Created VPC, Public Subnet, Internet Gateway, Route Tables, Security Groups, and EC2 instances.
-- Developed reusable Terraform configurations for consistent deployments.
-- Automated server configuration and Nginx deployment using Ansible playbooks.
-- Deployed a sample web application on AWS EC2 through Ansible automation.
-- Managed source code and playbooks using Git and GitHub.
-- Implemented AWS security best practices including Security Groups and IAM-based access control.
-
----
-
-## Next Project Idea
-
-After this, a **Terraform + Jenkins + Ansible + AWS CI/CD pipeline** project is a strong interview-level follow-up.
